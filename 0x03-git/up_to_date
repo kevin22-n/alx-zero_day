@@ -6,3 +6,4 @@ git checkout "branch name"
 git add .
 git commit -m 'message'
 git push --set-upstream origin "branch name"
+git pull
